@@ -1,0 +1,92 @@
+.link{
+    
+    
+}
+body{
+    background-color: aqua;
+}
+.link a{
+    text-decoration: none;
+    color: tomato;
+    font-weight: bold; 
+
+    
+}
+.link a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+.clear div{
+    clear: both;
+}
+.bio{
+      
+      padding: 10px;
+      color: cadetblue;
+}
+hr{
+    border: solid black;
+}
+#personal section{
+
+}
+.content{
+    
+}
+
+ #div{
+    
+ }
+
+#div a{
+        margin: 10px;
+       color: green;
+       text-decoration: none; 
+       
+}
+#div a:hover{
+     color: springgreen;
+     text-decoration: underline;
+}
+.rule{
+    border: solid 1px ; 
+    
+}
+#work{
+      text-align: center;
+}
+.ff{
+    text-align: center;
+}
+#right{
+        
+        
+        width: 45%;
+        padding: 5px;
+    }
+        
+.left{
+    
+    float:left;
+    width: 45%;}
+    .fot{
+        background-color: black;
+        text-align: center;
+        padding: 10px;
+    }
+    .fot a{
+        color: white;
+        text-decoration: none;
+        margin: 20px;
+    }
+    .fot p{
+        color: white;
+        
+        margin-top: 20px;
+    }
+    
+
+
+
+
+    
